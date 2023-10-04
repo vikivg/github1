@@ -1,0 +1,2 @@
+Git
+It is a version controller. It helps to keep track of code changes & used to collaborate on code.
